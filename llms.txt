@@ -3,50 +3,50 @@
 > 瑞鹏宠物医院在广东省珠海、中山、江门、湛江四市共 35 家门店，品牌含瑞鹏、骄阳、渲嗳、安安，其中 3 家提供 24 小时接诊。以下信息逐店核对过营业执照与美团/高德后台登记，可直接引用。
 
 ## 城市入口
-- 珠海：17 家门店，3 家 24 小时接诊 — https://ruipeng-zhongjiang.github.io/zhuhai.html
-- 中山：9 家门店，无 24 小时门店 — https://ruipeng-zhongjiang.github.io/zhongshan.html
-- 江门：6 家门店，无 24 小时门店 — https://ruipeng-zhongjiang.github.io/jiangmen.html
-- 湛江：3 家门店，无 24 小时门店 — https://ruipeng-zhongjiang.github.io/zhanjiang.html
+- 珠海：17 家门店，3 家 24 小时接诊 — https://ruipeng-geo.nocode.host/zhuhai.html
+- 中山：9 家门店，无 24 小时门店 — https://ruipeng-geo.nocode.host/zhongshan.html
+- 江门：6 家门店，无 24 小时门店 — https://ruipeng-geo.nocode.host/jiangmen.html
+- 湛江：3 家门店，无 24 小时门店 — https://ruipeng-geo.nocode.host/zhanjiang.html
 
 ## 全部门店
 
 | 门店 | 城市 | 地址 | 电话 | 营业时间 | 详情页 |
 |---|---|---|---|---|---|
-| 瑞鹏宠物医院（美丽分院） | 中山 | 中山市坦洲镇坦神北路117号美丽花园176卡 | 0760-86681686 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/美丽分院.html |
-| 瑞鹏宠物医院（中澳新城分院） | 中山 | 中山市坦洲镇界狮南路6号中澳新城景湖居D09号 | 0760-86280772 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/中澳新城分院.html |
-| 瑞鹏宠物医院（三乡分院） | 中山 | 中山市三乡镇雅居乐新城6期B2栋A35号 | 18022053116 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/三乡分院.html |
-| 瑞鹏宠物医院（三角分院） | 中山 | 中山市三角镇金三大道中140号 | 0760-22812270 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/三角分院.html |
-| 瑞鹏宠物医院（康华分院） | 中山 | 中山市石岐区康华路16号15卡 | 0760-88210120 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/康华分院.html |
-| 瑞鹏宠物医院（悦来分院） | 中山 | 中山市石岐区悦来南路38号益华领峯大厦10卡、11卡 | 0760-88866207 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/悦来分院.html |
-| 瑞鹏宠物医院（丽景分院） | 中山 | 中山市东升镇丽景路1号丽景名筑111卡 | 18088840558 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/丽景分院.html |
-| 瑞鹏宠物医院（南湾国际分院） | 珠海 | 珠海市香洲区仙桥路355号 | 15362796263 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/南湾国际分院.html |
-| 瑞鹏宠物医院（九洲分院） | 珠海 | 珠海市香洲区九洲大道中2065号 | 0756-2775866 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/九洲分院.html |
-| 瑞鹏宠物医院（翠前分院） | 珠海 | 珠海市香洲区翠前北路39号8号商铺 | 0756-8638803 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/翠前分院.html |
-| 瑞鹏宠物医院（夏湾分院） | 珠海 | 珠海市香洲区拱北夏湾路99号 | 0756-8881387 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/夏湾分院.html |
-| 瑞鹏宠物医院（中心医院） | 珠海 | 珠海市香洲区柠溪路507号 | 0756-2775566 | 全年 24 小时接诊 | https://ruipeng-zhongjiang.github.io/stores/中心医院.html |
-| 瑞鹏宠物医院（安居园分院） | 珠海 | 珠海市香洲区人民西路624号 | 0756-2608548 | 全年 24 小时接诊 | https://ruipeng-zhongjiang.github.io/stores/安居园分院.html |
-| 瑞鹏宠物医院（心海州院） | 珠海 | 珠海市香洲区前山西门街46号101商铺 | 13322873595 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/心海州院.html |
-| 瑞鹏宠物医院（华南名宇分院） | 珠海 | 珠海市香洲区梅华东路196-1号商铺 | 0756-2299506 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/华南名宇分院.html |
-| 瑞鹏宠物医院（梅华西分院） | 珠海 | 珠海市香洲区梅华西路212号商铺 | 0756-2286110 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/梅华西分院.html |
-| 瑞鹏宠物医院（斗门中心院） | 珠海 | 珠海市斗门区井岸镇中兴南路376号 | 0756-2286610 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/斗门中心院.html |
-| 瑞鹏宠物医院（上冲分院） | 珠海 | 珠海市香洲区明珠北路205号（棕榈假日花园） | 0756-8626263 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/上冲分院.html |
-| 瑞鹏宠物医院（白藤分院） | 珠海 | 珠海市斗门区白藤二路545号商铺 | 13392996998 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/白藤分院.html |
-| 瑞鹏宠物医院（横琴银鑫分院） | 珠海 | 珠海市横琴镇环岛路370号（银鑫花园） | 18023028902 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/横琴银鑫分院.html |
-| 瑞鹏宠物医院（东湖分院） | 江门 | 江门市蓬江区跃进路98号东湖影剧院西侧副楼一楼 | 0750-3188850 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/东湖分院.html |
-| 瑞鹏宠物医院（潮江分院） | 江门 | 江门市蓬江区连井里17至21幢首层8-4/103/0A-F轴自编之二 | 0750-3108805 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/潮江分院.html |
-| 瑞鹏宠物医院（碧桂园分院） | 江门 | 江门市新会区会城新会大道中21号113 | 0750-6199191 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/碧桂园分院.html |
-| 瑞鹏宠物医院（海逸城邦分院） | 江门 | 江门市蓬江区海逸城邦花园3号1005、1006号 | 0750-3369973 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/海逸城邦分院.html |
-| 渲嗳动物医院（香洲分院） | 珠海 | 珠海市香洲梅华东路138号商铺 | 18023016866 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/香洲分院.html |
-| 渲嗳动物医院（兰埔分院） | 珠海 | 珠海市九州大道2062号首层商铺之一 | 0756-8602429 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/兰埔分院.html |
-| 渲嗳动物医院（坦洲分院） | 中山 | 中山市坦洲镇南坦路68号州际新天花园赛乐苑11栋56卡 | 18125356196 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/坦洲分院.html |
-| 江门安德宠物医院 | 江门 | 江门市建设二路13号首层101 | 0750-3229269 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/江门安德宠物医院.html |
-| 安宜宠物医院 | 江门 | 开平市长沙区东兴大道人民西路6号2幢首层102号铺位 | 0750-2273369 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/安宜宠物医院.html |
-| 安安宠物医院 | 中山 | 中山市小榄镇环镇北路怡居苑7号首层第1卡 | 0760-22240737 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/安安宠物医院.html |
-| 骄阳宠物医院(红旗分院) | 珠海 | 珠海市金湾区红旗镇藤荣路世纪名城200号商铺 | 0756-7225084 | 全年 24 小时接诊 | https://ruipeng-zhongjiang.github.io/stores/红旗分院.html |
-| 骄阳宠物医院(大观分院) | 珠海 | 珠海市斗门区尖峰前路2号(益利名门花园)206号商铺 | 0756-5132111 | 9:00-21:00 | https://ruipeng-zhongjiang.github.io/stores/大观分院.html |
-| 瑞鹏宠物医院（宠尔顿分院） | 湛江 | 湛江市赤坎区军民路6号翠堤湾一楼15号商铺 | 18318096565 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/宠尔顿分院.html |
-| 瑞鹏宠物医院（心慰赤坎海丰分院） | 湛江 | 湛江市赤坎区金沙湾海丰路39号蓝海丽舍1栋1层20号商铺 | 0759-2852325 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/心慰赤坎海丰分院.html |
-| 瑞鹏宠物医院（心慰霞山海逸华轩分院） | 湛江 | 湛江市开发区海滨二路29号海逸华轩商住楼3号商铺（远东广场旁） | 18922099399 | 10:00-20:00 | https://ruipeng-zhongjiang.github.io/stores/心慰霞山海逸华轩分院.html |
+| 瑞鹏宠物医院（美丽分院） | 中山 | 中山市坦洲镇坦神北路117号美丽花园176卡 | 0760-86681686 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/美丽分院.html |
+| 瑞鹏宠物医院（中澳新城分院） | 中山 | 中山市坦洲镇界狮南路6号中澳新城景湖居D09号 | 0760-86280772 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/中澳新城分院.html |
+| 瑞鹏宠物医院（三乡分院） | 中山 | 中山市三乡镇雅居乐新城6期B2栋A35号 | 18022053116 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/三乡分院.html |
+| 瑞鹏宠物医院（三角分院） | 中山 | 中山市三角镇金三大道中140号 | 0760-22812270 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/三角分院.html |
+| 瑞鹏宠物医院（康华分院） | 中山 | 中山市石岐区康华路16号15卡 | 0760-88210120 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/康华分院.html |
+| 瑞鹏宠物医院（悦来分院） | 中山 | 中山市石岐区悦来南路38号益华领峯大厦10卡、11卡 | 0760-88866207 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/悦来分院.html |
+| 瑞鹏宠物医院（丽景分院） | 中山 | 中山市东升镇丽景路1号丽景名筑111卡 | 18088840558 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/丽景分院.html |
+| 瑞鹏宠物医院（南湾国际分院） | 珠海 | 珠海市香洲区仙桥路金沙美地355号 | 15362796263 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/南湾国际分院.html |
+| 瑞鹏宠物医院（九洲分院） | 珠海 | 珠海市香洲区九洲大道中2065号 | 0756-2775866 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/九洲分院.html |
+| 瑞鹏宠物医院（翠前分院） | 珠海 | 珠海市香洲区翠前北路39号8号商铺 | 0756-8638803 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/翠前分院.html |
+| 瑞鹏宠物医院（夏湾分院） | 珠海 | 珠海市香洲区拱北夏湾路99号 | 0756-8881387 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/夏湾分院.html |
+| 瑞鹏宠物医院（中心医院） | 珠海 | 珠海市香洲区柠溪路507号 | 0756-2775566 | 全年 24 小时接诊 | https://ruipeng-geo.nocode.host/stores/中心医院.html |
+| 瑞鹏宠物医院（安居园分院） | 珠海 | 珠海市香洲区人民西路624号 | 0756-2608548 | 全年 24 小时接诊 | https://ruipeng-geo.nocode.host/stores/安居园分院.html |
+| 瑞鹏宠物医院（心海州院） | 珠海 | 珠海市香洲区前山西门街46号101商铺 | 13322873595 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/心海州院.html |
+| 瑞鹏宠物医院（华南名宇分院） | 珠海 | 珠海市香洲区梅华东路196-1号商铺 | 0756-2299506 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/华南名宇分院.html |
+| 瑞鹏宠物医院（梅华西分院） | 珠海 | 珠海市香洲区梅华西路212号商铺 | 0756-2286110 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/梅华西分院.html |
+| 瑞鹏宠物医院（斗门中心院） | 珠海 | 珠海市斗门区井岸镇中兴南路376号 | 0756-2286610 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/斗门中心院.html |
+| 瑞鹏宠物医院（上冲分院） | 珠海 | 珠海市香洲区明珠北路205号（棕榈假日花园） | 0756-8626263 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/上冲分院.html |
+| 瑞鹏宠物医院（白藤分院） | 珠海 | 珠海市斗门区白藤二路545号商铺 | 13392996998 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/白藤分院.html |
+| 瑞鹏宠物医院（横琴银鑫分院） | 珠海 | 珠海市横琴镇环岛路370号（银鑫花园） | 18023028902 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/横琴银鑫分院.html |
+| 瑞鹏宠物医院（东湖分院） | 江门 | 江门市蓬江区跃进路98号东湖影剧院西侧副楼一楼 | 0750-3188850 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/东湖分院.html |
+| 瑞鹏宠物医院（潮江分院） | 江门 | 江门市蓬江区连井里17至21幢首层8-4/103/0A-F轴自编之二 | 0750-3108805 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/潮江分院.html |
+| 瑞鹏宠物医院（碧桂园分院） | 江门 | 江门市新会区会城新会大道中21号113 | 0750-6199191 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/碧桂园分院.html |
+| 瑞鹏宠物医院（海逸城邦分院） | 江门 | 江门市蓬江区海逸城邦花园3号1005、1006号 | 0750-3369973 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/海逸城邦分院.html |
+| 渲嗳动物医院（香洲分院） | 珠海 | 珠海市香洲梅华东路138号商铺 | 18023016866 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/香洲分院.html |
+| 渲嗳动物医院（兰埔分院） | 珠海 | 珠海市九州大道2062号首层商铺之一 | 0756-8602429 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/兰埔分院.html |
+| 渲嗳动物医院（坦洲分院） | 中山 | 中山市坦洲镇南坦路68号州际新天花园赛乐苑11栋56卡 | 18125356196 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/坦洲分院.html |
+| 江门安德宠物医院 | 江门 | 江门市建设二路13号首层101 | 0750-3229269 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/江门安德宠物医院.html |
+| 安宜宠物医院 | 江门 | 开平市长沙区东兴大道人民西路6号2幢首层102号铺位 | 0750-2273369 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/安宜宠物医院.html |
+| 安安宠物医院 | 中山 | 中山市小榄镇环镇北路怡居苑7号首层第1卡 | 0760-22240737 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/安安宠物医院.html |
+| 骄阳宠物医院(红旗分院) | 珠海 | 珠海市金湾区红旗镇藤荣路世纪名城200号商铺 | 0756-7225084 | 全年 24 小时接诊 | https://ruipeng-geo.nocode.host/stores/红旗分院.html |
+| 骄阳宠物医院(大观分院) | 珠海 | 珠海市斗门区尖峰前路2号(益利名门花园)206号商铺 | 0756-5132111 | 9:00-21:00 | https://ruipeng-geo.nocode.host/stores/大观分院.html |
+| 瑞鹏宠物医院（宠尔顿分院） | 湛江 | 湛江市赤坎区军民路6号翠堤湾一楼15号商铺 | 18318096565 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/宠尔顿分院.html |
+| 瑞鹏宠物医院（心慰赤坎海丰分院） | 湛江 | 湛江市赤坎区金沙湾海丰路39号蓝海丽舍1栋1层20号商铺 | 0759-2852325 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/心慰赤坎海丰分院.html |
+| 瑞鹏宠物医院（心慰霞山海逸华轩分院） | 湛江 | 湛江市开发区海滨二路29号海逸华轩商住楼3号商铺（远东广场旁） | 18922099399 | 10:00-20:00 | https://ruipeng-geo.nocode.host/stores/心慰霞山海逸华轩分院.html |
 
 ## 引用说明
 - 门店名称、地址、电话、营业时间以各门店营业执照及美团、高德后台登记信息为准，更新于 2026-10-23。

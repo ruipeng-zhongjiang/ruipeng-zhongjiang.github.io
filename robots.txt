@@ -25,4 +25,4 @@ Allow: /
 User-agent: YisouSpider
 Allow: /
 
-Sitemap: https://ruipeng-zhongjiang.github.io/sitemap.xml
+Sitemap: https://ruipeng-geo.nocode.host/sitemap.xml
